@@ -20,6 +20,7 @@ public class BankTryApplication {
         // 在Git上補充之註解 = =
         //在MyBranch Local端新增之註解~
         // 在local新增註解 (Master Branch)
+        //test2~
 //        List<Object> list = new ArrayList<>();
 //        list.add("hahaha");
 //        list.add("XDD");
