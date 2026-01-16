@@ -22,6 +22,7 @@ public class BankTryApplication {
         // 在local新增註解 (Master Branch)
         //test2~
         // local端刪了之後的tes3
+        //666
 //        List<Object> list = new ArrayList<>();
 //        list.add("hahaha");
 //        list.add("XDD");
