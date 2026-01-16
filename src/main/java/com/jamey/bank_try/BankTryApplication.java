@@ -18,6 +18,7 @@ public class BankTryApplication {
         Account account2 = new Account("jamey3",500);
         System.out.println(Account.getRan(10));
         // 在Git上補充之註解 = =
+        //在MyBranch Local端新增之註解~
 
 //        List<Object> list = new ArrayList<>();
 //        list.add("hahaha");
