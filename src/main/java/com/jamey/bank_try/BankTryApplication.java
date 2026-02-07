@@ -10,6 +10,9 @@ import java.util.List;
 public class BankTryApplication {
 
     public static void main(String[] args) {
+
+        String na = "ha;";
+
         SpringApplication.run(BankTryApplication.class, args);
 
         System.out.println("tes");
@@ -29,6 +32,14 @@ public class BankTryApplication {
 //        for(int i=0;i<list.size();i++){
 //            System.out.println(list.get(i));
 //        }
+
+        Account.addcaculater(1,2);
+//        CreditCard cd =  new CreditCard();
+//        System.out.println(cd);
+        Person p1 =  new Person("jamey",1);
+        System.out.println(p1);
+
+        Child child = new Child(1,"jamey");
 
     }
 

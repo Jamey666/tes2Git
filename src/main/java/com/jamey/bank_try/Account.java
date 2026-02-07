@@ -43,4 +43,9 @@ public class Account {
 //        }
         return sb.toString();
     }
+
+    static public int addcaculater(int a,int b){
+        System.out.println(a+b);
+        return a+b;
+    }
 }
